@@ -1,4 +1,4 @@
-# nodejs-static-server 静态资源服务
+# nodejs-koa-server web静态站点服务
 
 ## 项目安装
 ```
